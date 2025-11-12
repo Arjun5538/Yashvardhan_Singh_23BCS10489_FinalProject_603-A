@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><flights>
+    
+    <flight>
+        <id>1</id>
+        <source>Delhi</source>
+        <destination>Mumbai</destination>
+        <date>2025-11-10</date>
+        <seats>25</seats>
+        <fare>5000</fare>
+    </flight>
+<flight id="101"><source>Delhi</source><destination>Mumbai</destination><date>2025-11-10</date><availableSeats/><price>5000</price></flight><flight id="101"><source>Delhi</source><destination>Mumbai</destination><date>2025-11-10</date><availableSeats/><price>5000</price></flight><flight id="101"><source>Delhi</source><destination>Mumbai</destination><date>2025-11-10</date><availableSeats/><price>5000</price></flight><flight id="101"><source>Delhi</source><destination>Mumbai</destination><date>2025-11-10</date><availableSeats/><price>5000</price></flight><flight id="101"><source>Delhi</source><destination>Mumbai</destination><date>2025-11-10</date><availableSeats/><price>5000</price></flight><flight id="101"><source>Delhi</source><destination>Mumbai</destination><date>2025-11-10</date><availableSeats/><price>5000</price></flight><flight id="1"><source>Delhi</source><destination>Mumbai</destination><date>2025-11-10</date><availableSeats/><price>5000</price></flight><flight id="1"><source>Delhi</source><destination>Mumbai</destination><date>2025-11-10</date><availableSeats/><price>5000</price></flight></flights>

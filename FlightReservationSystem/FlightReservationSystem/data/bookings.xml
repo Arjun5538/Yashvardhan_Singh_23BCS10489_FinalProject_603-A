@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><bookings>
+    
+    <booking>
+        <id>1</id>
+        <name>Karan</name>
+        <contact>9342004339</contact>
+        <source>Delhi</source>
+        <destination>Mumbai</destination>
+        <date>2025-11-10</date>
+        <fare>5000</fare>
+    </booking>
+<booking><flightId>101</flightId><name>Karan</name><email>karanpratapsingh1225@gmail.com</email><seats>5</seats></booking><booking><flightId>1</flightId><name>Karan</name><email>23bcs12375@cuchd.in</email><seats>25</seats></booking></bookings>
